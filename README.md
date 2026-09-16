@@ -103,13 +103,29 @@ The repository includes descriptive statistics, Shapiro-Wilk tests, ANOVA, linea
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaurOrtizz&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Mauricio Ortiz's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaurOrtizz&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most frequently used languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaurOrtizz&amp;theme=tokyonight"
+    width="700"
+    alt="Mauricio Ortiz's GitHub profile details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaurOrtizz&theme=tokyonight&hide_border=true" height="165" alt="Mauricio Ortiz's GitHub contribution streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaurOrtizz&amp;theme=tokyonight"
+    height="165"
+    alt="Mauricio Ortiz's repositories by language"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MaurOrtizz&amp;theme=tokyonight&amp;hide_border=true"
+    height="165"
+    alt="Mauricio Ortiz's GitHub contribution streak"
+  />
 </p>
 
 ---
