@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MaurOrtizz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -59,13 +58,6 @@
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-- 🗺️ **[Map Editor](YOUR-REPO-LINK)** — Interactive map editor for world-building: country editing, custom border drawing, and geometric operations. Built with React, TypeScript, FastAPI, MapLibre GL, Turf.js, and Docker. *(in progress)*
-- 🎵 **[Music Player](YOUR-REPO-LINK)** — Full-stack music player with dynamic playlists and favorites, backed by Firebase. Built with Angular, Ionic, and TypeScript.
 
 ---
 
